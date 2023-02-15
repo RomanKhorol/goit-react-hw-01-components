@@ -8,7 +8,7 @@ export const FriendOneCard = styled.li`
   padding-left: 20px;
   box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.1),
     0px 1px 2px rgba(0, 0, 0, 0.08), 1px 2px 4px 4px rgba(0, 0, 0, 0.12);
-  border-radius: 0px 0px 4px 4px;
+  border-radius: 4px 4px 4px 4px;
 `;
 export const FriendName = styled.p`
   font-size: 25px;
